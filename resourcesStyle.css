@@ -1,0 +1,25 @@
+legend {
+    text-align: center;
+}
+
+.table {
+    color: white;
+    background-color: rgb(0, 0, 100);
+    display: block;
+}
+
+.ul {
+    color: black;
+    background-color: rgb(222, 255, 255);
+}
+
+.ol {
+    background-image: linear-gradient(to right, red, black);
+}
+
+.form {
+    color: #000;
+    background-color: white;
+    display: block;
+    align-items: center;
+}
